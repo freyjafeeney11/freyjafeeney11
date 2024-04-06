@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**freyjafeeney11/freyjafeeney11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Freyja, a 4th-year university student majoring in Computer Science with a passion for evolutionary robotics. Currently, I'm interning at an evolutionary robotics lab, where I get to explore the fascinating intersection of biology and artificial intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science in the Honors College at the University of Vermont
+- 💼 Interning in an Evolutionary Robotics Lab(https://www.meclab.org)
+- 💻 Enjoy studying coding languages and learning new spoken languages
+- 🎮 Interested in game development
+- 📚 Constantly seeking to expand my knowledge and skills in both technical and non-technical areas
+
+## Get in Touch
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/freyjafeeney)!
