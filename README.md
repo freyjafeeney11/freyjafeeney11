@@ -12,4 +12,4 @@ I'm Freyja, a 4th-year university student majoring in Computer Science with a pa
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/freyjafeeney)!
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/freyjafeeney!
