@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Freyja, a recent graduate with a Bachelor of Science in Computer Science with a passion for front-end and game developent. 
+I'm Freyja, a recent graduate with a Bachelor of Science in Computer Science with a passion for evolutionary robotics and biological computation. 
 
 ## About Me
 
