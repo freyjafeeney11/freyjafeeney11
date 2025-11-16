@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Freyja, first-year masters student at Sorbonne Universite in Paris, France with a passion for evolutionary robotics and biological computation.
+I'm Freyja, first-year master's student at Sorbonne Universite in Paris, France with a passion for evolutionary robotics and biological computation.
 
 ## About Me
 
